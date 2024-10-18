@@ -23,3 +23,6 @@ interactive tool built with modern web development technologies.
    - Public repositories
   
 ## Application Output 
+[![GitHub Profile Finder Output](https://github.com/KhushbooBansiwal/GithubProfile-Finder/blob/a07bd57ddd4967e5d90b724c6e0071e80a450fec/githubdemo.PNG?raw=true)](https://github.com/KhushbooBansiwal/GithubProfile-Finder/blob/a07bd57ddd4967e5d90b724c6e0071e80a450fec/githubdemo.PNG?raw=true)
+
+[![API Calling Example](https://github.com/KhushbooBansiwal/GithubProfile-Finder/blob/a07bd57ddd4967e5d90b724c6e0071e80a450fec/api-calling.PNG?raw=true)](https://github.com/KhushbooBansiwal/GithubProfile-Finder/blob/a07bd57ddd4967e5d90b724c6e0071e80a450fec/api-calling.PNG?raw=true)
